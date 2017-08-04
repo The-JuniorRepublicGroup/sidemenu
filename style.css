@@ -46,7 +46,7 @@ ul li a{
 
 ul li a:hover{
     background: #242425;
-    transition: background 0s 0.1s;
+    transition: background 0.1s;
 }
 
 #sidebar-btn{
@@ -59,7 +59,7 @@ ul li a:hover{
     position: absolute;
     top: 2%;
     right: -60px;
-    /* -webkit-transition: all 1s ease; */
+     -webkit-transition: all 1s ease; 
 }
 
 #sidebar-btn:hover span:nth-child(1){
